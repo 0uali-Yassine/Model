@@ -1,0 +1,7 @@
+.childDiv{
+    transition: all .8s ease-out;
+}
+.childDiv:hover{
+    color: black;
+    background-color: white;
+}
